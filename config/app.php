@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'singhdevarshi.github.io'),
+    'url' => env('APP_URL', 'https://singhdevarshi.github.io/'),
 
     'asset_url' => env('ASSET_URL', null),
 
