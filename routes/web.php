@@ -16,7 +16,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'FrontendController@index');
 
-Route::get('firebase','FirebaseController@index');
 
 Route::get('/about-us', 'FrontendController@aboutus');
 Route::get('/services', 'FrontendController@services');
